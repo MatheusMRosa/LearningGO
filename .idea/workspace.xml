@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c57361-ec59-476c-b5db-1b12a8cb781b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/ex1.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+              <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -53,16 +49,25 @@
         <entry file="file://$PROJECT_DIR$/ex3.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex4.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ex4.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex4.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -87,6 +92,7 @@
         <option value="$PROJECT_DIR$/ex2.go" />
         <option value="$PROJECT_DIR$/ex3.go" />
         <option value="$PROJECT_DIR$/ex4.go" />
+        <option value="$PROJECT_DIR$/gitignore" />
       </list>
     </option>
   </component>
@@ -243,7 +249,7 @@
     <entry file="file://$PROJECT_DIR$/ex1.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -257,14 +263,21 @@
     <entry file="file://$PROJECT_DIR$/ex3.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex4.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
