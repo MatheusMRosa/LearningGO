@@ -1,4 +1,4 @@
-package main
+package Exercícios_Slide
 
 func palindromoValidation (word string) bool{
 	var reverse string;

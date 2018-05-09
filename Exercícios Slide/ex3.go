@@ -1,4 +1,4 @@
-package main
+package Exercícios_Slide
 
 import "fmt"
 

@@ -1,15 +1,15 @@
-package main
+package Exercícios_Slide
 
 import "fmt"
 
-func sliceLast (word []string) string{
-	var size = len(word) -1
+func slicepenultimate (word []string) string{
+	var size = len(word) - 2
 	var letter = word[size]
 	return letter
 }
 
 func main() {
 	var someSlice []string = []string{"a","b","c","d","e","f"}
-	var result = sliceLast(someSlice)
+	var result = slicepenultimate(someSlice)
 	fmt.Println(result)
 }
